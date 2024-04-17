@@ -1,0 +1,1 @@
+Minimum Number of throws required to reach last cell is: 9

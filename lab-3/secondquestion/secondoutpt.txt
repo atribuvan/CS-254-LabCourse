@@ -1,0 +1,2 @@
+The Largest possible sum of a subsequnce of consecutive items in the given input list is: 
+11361989
